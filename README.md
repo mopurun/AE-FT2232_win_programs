@@ -6,11 +6,11 @@ make.batファイルでx64 Native Tools Command Prompt for VS 2022を使ってhe
 
 ftledtika/
 
-　├ lib/
+  ├ lib/
  
-　│　└ ftd2xx.lib
+  │　└ ftd2xx.lib
  
-　├ ftd2xx.h
+  ├ ftd2xx.h
  
   ├ hello.cpp
   
