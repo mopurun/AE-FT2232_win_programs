@@ -3,7 +3,7 @@
 make.batファイルでx64 Native Tools Command Prompt for VS 2022を使ってhello.exeファイルを生成しました。
 
 ファイル構成は以下の通りです。
-
+<pre>
 ftledtika/
 
   ├ lib/
@@ -14,4 +14,6 @@ ftledtika/
  
   ├ hello.cpp
   
-  └ make.bat
+  └ make.bat  
+</pre>
+
